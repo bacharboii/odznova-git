@@ -2,6 +2,21 @@ header{
     padding: 20px;
     background-color: rgb(201, 212, 224);
     color: rgb(68, 68, 68);
-    
-    
+    text-align: center;
+}
+
+p{
+    padding: 20px;
+    background-color: rgb(39, 39, 39);
+    color: whitesmoke;
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 20px;
+}
+
+footer{
+    text-align: center;
+    position: sticky;
+    margin-top: 25px;
 }
