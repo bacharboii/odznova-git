@@ -9,9 +9,7 @@ p{
     padding: 20px;
     background-color: rgb(39, 39, 39);
     color: whitesmoke;
-    margin-top: 25px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin: 25px;
     border-radius: 20px;
 }
 
@@ -19,4 +17,9 @@ footer{
     text-align: center;
     position: sticky;
     margin-top: 25px;
+}
+
+img{
+    margin: 10px;
+    align-items: center
 }
